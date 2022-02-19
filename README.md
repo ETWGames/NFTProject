@@ -1,7 +1,5 @@
 # Proof Of Concept NFT Project
 
-NFT Project For Proof Of Concept
-
 ## Description
 
 Proof Of Concept NFT Project **Will Not Be Deployed
